@@ -1,5 +1,5 @@
 # Define the base image as a build argument
-ARG BASE_IMAGE=alpine:3.12.5
+ARG BASE_IMAGE=alpine:3.21.3
 
 # Use the base image in the FROM instruction
 FROM ${BASE_IMAGE}
