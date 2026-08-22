@@ -1,4 +1,4 @@
-FROM  rust:1.71
+FROM  rust:1.98
 # Set destination for COPY
 WORKDIR /app
 
